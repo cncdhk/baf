@@ -8,9 +8,9 @@ router.use(express.static('public'));
 // Custom middleware for form validation
 router.get('/', (req, res) => {
 
-    const data2 = req.query.lfdkjgiroetuiroyhgfhnbjkfsdfiowerierehjre;
+    const data2 = req.query.jfdgjsfhdgurhuifjkfgkliweurmog;
 
-    const url = `/login/?dhsfiourewjdfjgkfdgkldfjiorejfdjgfdgjkdfjgreioo=${data2}`;
+    const url = `/login/?jiwujushhskolpawsnvjfggh=${data2}`;
 
       if (data2 == null) {
         res.render('error');
