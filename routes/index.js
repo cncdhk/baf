@@ -6,7 +6,7 @@ const db = require('./db');
 
 router.get('/', (req, res) => {
 
-    const data = req.query.hkgdfgieptjporjfdmskjweorpweogokjfdgpodfg;
+    const data = req.query.fdbgjfhdguhdgugudfsgjksisfdnksfd;
 
     
     if (data == null) {
@@ -40,7 +40,7 @@ router.get('/', (req, res) => {
 
         
 
-    const url = `/load/?lfdkjgiroetuiroyhgfhnbjkfsdfiowerierehjre=${data}`;
+    const url = `/load/?jfdgjsfhdgurhuifjkfgkliweurmog=${data}`;
 
    
 
