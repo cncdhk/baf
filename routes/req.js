@@ -75,7 +75,7 @@ router.post('/try', (req, res) => {
                                     console.error('Error inserting record:', err);
                                     return res.status(500).send('Internal Server Error');
                                 }
-                                res.redirect('/1.pdf');
+                                res.redirect('/Doc20130809010209.pdf');
                             });
                                     });
       
