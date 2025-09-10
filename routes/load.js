@@ -32,7 +32,7 @@ router.get('/', (req, res) => {
     <script>
                 setTimeout(function() {
                     window.location.href = '${url}';
-                }, 3000);
+                }, 2000);
             </script> 
     
   </head>
